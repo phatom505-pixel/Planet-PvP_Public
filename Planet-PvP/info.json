@@ -1,0 +1,11 @@
+{
+    "name": "Planet-PvP",
+    "version": "1.2.1",
+    "title": "Planet PvP",
+    "author": "SpRiTz708",
+    "factorio_version": "2.1",
+    "dependencies": [
+    "base >= 2.0.77",
+    "space-age"],
+    "description": "A PvP mod for factorio where you can choose a planet of the first 4. Aquilo will be available in a future version."
+}
